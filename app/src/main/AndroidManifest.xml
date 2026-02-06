@@ -16,7 +16,7 @@
         android:theme="@style/Theme.Localizador">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyD6Qqi1ubOHmTGKasM-FTwl1OXaXbU2JgQ" />
+            android:value="BorradaKeyApiPorSeguridad" />
         <activity
             android:name="com.ejemplo.localizador.MainActivity"
             android:exported="true"
