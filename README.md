@@ -12,10 +12,13 @@ Una aplicación móvil Android que permite visualizar mapas interactivos, buscar
 - ✅ Interfaz moderna con Jetpack Compose y Material Design 3
 
 <img width="325" height="730" alt="Captura de pantalla 2026-02-06 203904" src="https://github.com/user-attachments/assets/e716fc0e-10c5-457b-8152-8024acff298c" />
-Video demostrativo https://youtube.com/shorts/usceHrI_L5k
+Pantalla Principal
+
+Video demostrativo 
+https://youtube.com/shorts/usceHrI_L5k
 
 
-![Pantalla Principal](screenshot.png)
+
 
 ## 🛠️ Tecnologías Utilizadas
 
